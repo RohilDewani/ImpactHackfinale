@@ -1,0 +1,7 @@
+{
+  "name": "ImpactHack",
+  "description": "A community-driven platform for identifying local problems, launching initiatives, and tracking progress through milestones.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
